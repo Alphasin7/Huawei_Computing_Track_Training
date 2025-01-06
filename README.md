@@ -2,7 +2,7 @@
 
 <h1 align="center">Computing Track Training</h1>
 <p align="center">
-  <img src="huawei-competition-2024-25 banner.jpg" alt="huawei-competition-2024-25 banner" style="width: 400px;"/>
+  <img src="huawei-competition-2024-25 banner.jpg" alt="huawei-competition-2024-25 banner" style="width: 1200px;"/>
 </p>
 <h1 align="center">"Huawei ICT Competition Computing Track Training "</h1>
 
